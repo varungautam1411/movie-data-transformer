@@ -1,3 +1,4 @@
+
 package com.movierecommender.exception;
 
 public class DataProcessingException extends RuntimeException {
